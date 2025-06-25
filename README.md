@@ -11,7 +11,7 @@ A simple weather app built using Python and Streamlit that displays real-time we
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](images/screenshot.png)
+![Weather App Screenshot](https://github.com/Abndx/weather-app/blob/main/Screenshot%20(45).png)
 
 ## 🛠️ Technologies Used
 
