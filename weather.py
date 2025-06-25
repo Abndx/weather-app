@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-API_KEY = "c353c958718d43af0db029a527efa885"
+API_KEY = "XXXXXXXX"
 
 def find_current_weather(city):
     base_url  = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
